@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello! I'm Roman Kushanov
 
-<!--
-**kuschanow/kuschanow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [**Email**](kuschanow@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/roman-kushanov)
+- [**Telegram**](https://t.me/kuschanow)
